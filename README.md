@@ -11,6 +11,10 @@ My research looks at **transitional vulnerability**, which is how farms, rural b
 - Supply chain vulnerability
 - Qualitative research methods and CAQDAS (NVivo, ATLAS.ti)
 
+### Research data
+
+- [NBS treescapes reverse-logic analysis](https://github.com/timothypittaway/nbs-treescapes-reverse-logic), the data, search strategy and framework behind my 2026 IJERPH article on nature-based solution treescapes across Europe ([doi:10.3390/ijerph23060691](https://doi.org/10.3390/ijerph23060691))
+
 ### Tools I have built
 
 - [PRISMA Flow](https://vrdemos.co.uk/prismaflow/), a step-by-step wizard for drawing PRISMA flow diagrams for systematic reviews
