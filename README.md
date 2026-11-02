@@ -15,7 +15,7 @@ My research looks at **transitional vulnerability**, which is how farms, rural b
 
 - [NBS treescapes reverse-logic analysis](https://github.com/timothypittaway/nbs-treescapes-reverse-logic), the data, search strategy and framework behind my 2026 IJERPH article on nature-based solution treescapes across Europe ([doi:10.3390/ijerph23060691](https://doi.org/10.3390/ijerph23060691))
 - [Woodlands for All](https://github.com/timothypittaway/woodlands-for-all), a 19-benefit framework, workshop method and resource lists for community woodland groups ([doi:10.5281/zenodo.15050621](https://doi.org/10.5281/zenodo.15050621))
-- [Emerging ostrich farmers](https://github.com/timothypittaway/emerging-ostrich-farmers), the participation capacity instrument, method and recommended interventions from my doctoral thesis on supply chain participation in the Eastern Cape, South Africa
+- [Emerging ostrich farmers](https://github.com/timothypittaway/emerging-ostrich-farmers), the participation capacity instrument, method and recommended interventions from my doctoral thesis on supply chain participation in the Eastern Cape, South Africa ([doi:10.5281/zenodo.23881131](https://doi.org/10.5281/zenodo.23881131))
 
 ### Tools I have built
 
